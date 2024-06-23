@@ -24,6 +24,10 @@ a {
 a:hover {
   text-decoration: underline;
 }
+a:visited {
+  text-decoration: none;
+  color:white;
+}
 ul {
   list-style-type: square;
 }
