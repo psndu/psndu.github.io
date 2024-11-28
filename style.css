@@ -24,16 +24,8 @@ a {
 a:hover {
   text-decoration: underline;
 }
-a:visited {
-  text-decoration: none;
-  color:white;
 }
 ul {
   list-style-type: square;
 }
-a.blog:link {
-  color: white;
-}
-a.blog:hover {
-  color: rgb(11, 195, 228);
-}
+
